@@ -16,10 +16,14 @@ It’s designed for people who want to manage their mental health without the he
 
 ## Project Contents
 1. *docs*
+
 This folder contains all of the documentation for the myJournal project. This includes the original project proposal, the system requirements specification (SRS), and the system architecture specification (SAS).
-2. *mockup*
+3. *mockup*
+
 This folder contains the mockup of the myJournal app. The myJournal team has chosen to create a mockup of the web application, accessible via browser. Included is a video demonstration of the mockup as well as the raw files from the mockup itself.
-3. *presentations*
+
+4. *presentations*
+
 This folder contains two presentations that explain the myJournal system in detail to stakeholders.
 The first, labeled ‘Midterm Presentation’, explains elements of the system requirements specification (as of version 1.0 of that document) and illustrates the use case diagrams within it.
 The second, labeled ‘Final Presentation’, details the characteristics of the system architecture as presented in version 1.0 of the system architecture specification and elaborates on the rationale for choosing those characteristics.
